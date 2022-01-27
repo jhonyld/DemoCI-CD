@@ -3,10 +3,10 @@ name: CI-CD
 on:
 	push:
 		branches:
-			- develop
+			- dev
 			- main
 		pull_request:
-			- develop
+			- dev
 			- main	
 
 jobs:
