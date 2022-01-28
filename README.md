@@ -1,6 +1,6 @@
 # Template para CI/CD no Flutter
 
-A new Flutter project.
+Utilização de Github Actions para faxer build e deploy de uma aplicação Flutter
 
 ## Getting Started
 
